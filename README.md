@@ -1,8 +1,8 @@
 # Classification on MNIST Dataset
 
 ## Description
-This is a hands-on experiment to implement the most frequently used statistical learning methods.
-In this project, multiple models were built from scratch to perform the classification task on MNIST Dataset with following modifications. 
+This is a hands-on experiment to implement the most frequently used statistical learning methods on MNIST Dataset.
+In this project, multiple models were built from scratch to perform the classification task with following modifications. 
 
 
 ## Table of Contents 
